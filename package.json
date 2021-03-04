@@ -1,6 +1,6 @@
 {
   "name": "aws-bootstrap-kit",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "repository": {
     "url": "https://github.com/awslabs/aws-bootstrap-kit",
     "type": "git"
@@ -97,6 +97,6 @@
     "@aws-cdk/core": "1.91.0",
     "@aws-cdk/custom-resources": "1.91.0",
     "@aws-cdk/pipelines": "1.91.0",
-    "constructs": "3.2.107"
+    "constructs": "3.3.50"
   }
 }
